@@ -1,4 +1,0 @@
-git常用命令：
-git clone "url"	下载（fork）
-git remote add "name" "url"	链接到远程仓库
-git push "name" master	推送到远程仓库
